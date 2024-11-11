@@ -1,4 +1,6 @@
-# Home Rental Web Application
+# Title : Home Rental Web Application
+
+## Team ID : NM2024TMID02410
 
 ## Team Members
 
@@ -38,10 +40,10 @@ The Home Rental Web App is a platform developed using the MERN stack (MongoDB, E
 - **Styling**: CSS
 - **Authentication**: JWT (JSON Web Tokens)
 
-
 ## Setup and Installation
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/your-repo/home-rental.git
    cd home-rental
@@ -49,6 +51,7 @@ The Home Rental Web App is a platform developed using the MERN stack (MongoDB, E
 
 2. **Install dependencies**  
    Navigate to the backend and frontend directories to install dependencies:
+
    ```bash
    cd backend
    npm install
@@ -58,6 +61,7 @@ The Home Rental Web App is a platform developed using the MERN stack (MongoDB, E
 
 3. **Configure Environment Variables**  
    Set up the required environment variables in a `.env` file in the backend directory:
+
    ```plaintext
    PORT=5000
    MONGO_URI=your_mongodb_uri
@@ -66,6 +70,7 @@ The Home Rental Web App is a platform developed using the MERN stack (MongoDB, E
 
 4. **Run the Application**  
    Start both the backend and frontend servers:
+
    ```bash
    # In the backend directory
    npm start
@@ -75,7 +80,6 @@ The Home Rental Web App is a platform developed using the MERN stack (MongoDB, E
 
 5. **Access the Application**  
    Visit `http://localhost:3000` to view the app in your browser.
-
 
 ## License
 
