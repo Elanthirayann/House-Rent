@@ -1,4 +1,5 @@
-# Title : Home Rental Web Application
+# Title : HOUSE RENT APP USING MERN
+
 
 ## Team ID : NM2024TMID02410
 
