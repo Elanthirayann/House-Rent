@@ -1,23 +1,11 @@
 # Title : HOUSE RENT APP USING MERN
 
-
-## Team ID : NM2024TMID02410
-
-## Team Members
-
-1. **[Dhivahar.V]** - **310121104025**
-2. **[Balaji.V]** - **310121104012**
-3. **[Jai Suriya.K]** - **310121104042**
-4. **[Sankar.K]** - **310121104054**
-5. **[Elanthirayan.E]** - **310121104030**
-
 ## Overview
 
 The Home Rental Web App is a platform developed using the MERN stack (MongoDB, Express.js, React, and Node.js) to help users find, list, and manage rental properties. The application enables property owners to post rental listings and potential renters to search for properties that match their preferences. This web app streamlines the rental process by connecting landlords and renters in one platform, making it easy to find or advertise rental properties.
 
 ## Table of Contents
 
-- [Team Members](#team-members)
 - [Overview](#overview)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
